@@ -11,7 +11,7 @@ export default function Navbar() {
                 </div>
                 <div className="gap-5 items-center flex h-full ml-auto pr-20 p-5">
                     <input className="bg-white text-2xl text-black rounded-lg border-gray-500 border-1 drop-shadow-lg" placeholder="Qidiruv..." type="text" />
-                    <Button className="rounded-lg bg-white text-blue-700 font-bold">Log In</Button>
+                    <h1 className="bg-white w-20 text-blue-500 font-bold font-serif rounded-lg p-1 text-center border-blue-700 border-2">Log In</h1>
                 </div>
                </div>
                 <div className="flex justify-center gap-10 text-blue-500 font-bold pl-154">
