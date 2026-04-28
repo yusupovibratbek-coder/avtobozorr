@@ -5,8 +5,8 @@ export default function Navbar() {
         <div>
             <div className="bg-gradient-to-r from-blue-700 to-blue-500 h-50">
                <div className="flex">
-                 <div className="items-center flex h-full pl-15 drop-shadow-3 shadow-white p-10">
-                    <img className="w-50" src="https://freepnglogo.com/images/all_img/1733727354_chevrolet-logo-png.png" alt="" />
+                 <div className="items-center flex pl-30  drop-shadow-3 shadow-white p-12">
+                   
                     <h1 className="text-6xl font-serif font-bold text-gray-300 ">AvtoBozor</h1>
                 </div>
                 <div className="gap-5 items-center flex h-full ml-auto pr-20 p-5">
